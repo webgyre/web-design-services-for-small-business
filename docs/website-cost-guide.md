@@ -81,4 +81,4 @@ Compare:
 
 For an exact project estimate, define the requirements first.
 
-**WEBGYRE:** https://webgyre.com
+For published package details, see [Webgyre website pricing](https://webgyre.com/pricing).
